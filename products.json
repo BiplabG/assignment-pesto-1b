@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "iphone 13",
+      "description": "This is the latest iphone device in the market.",
+      "price": 1000,
+      "product_id": "iph-wx",
+      "image_url": "https://images.unsplash.com/photo-1632514732416-bf5b8de19f33"
+    },
+    {
+      "name": "Airpod Max",
+      "description": "The airpod max is the highest sound quality headphones in the market.",
+      "price": 1000,
+      "product_id": "apd-mx",
+      "image_url": "https://images.unsplash.com/photo-1628202926206-c63a34b1618f"
+    },
+    {
+      "name": "Airpods Pro",
+      "description": "The airpods pro are light and easy to carry. They have high bass and great noise cancelling.",
+      "price": 400,
+      "product_id": "apd-pr",
+      "image_url": "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2"
+    },
+    {
+      "name": "Macbook air",
+      "description": "The most affordable macbook with the powerful M1 chip.",
+      "price": 1200,
+      "product_id": "mcb-ar",
+      "image_url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04"
+    },
+    {
+      "name": "Macbook pro",
+      "description": "Powerful macbook for pros. Comes with highest specification, best memory and M1 pro chip.",
+      "price": 1000,
+      "product_id": "mcb-pr",
+      "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "name": "ipad pro",
+      "description": "The 11 inch ipad is perfect for your daily works. With powerful A13 bionic chip you can do anything you want.",
+      "price": 1000,
+      "product_id": "ipd-pr",
+      "image_url": "https://images.unsplash.com/photo-1587033411391-5d9e51cce126"
+    }
+  ]
+}
